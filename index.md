@@ -1,6 +1,7 @@
 ---
-#layout: home
+layout: default
 ---
+
 # Codigo de conducta para practicas en espacios publicos. 
 
 ## 🚧 Estado del Proyecto
@@ -19,7 +20,8 @@ Hola, si sos una persona que se acaba de encontrar en una muestra publica de shi
 - **Disfrute del show.** Practican para hacer producciones, actuaciones o por el disfrute.
 - **Comparta.** Posterior al encuentro se puede dar un feedback constructivo de lo que se vio. Como tambien hablar de lo que vio con otra gente.
 - **Normalize.** Nuestro esfuerzo esta en poder convivir en los espacios y no tener que esconder lo que amamos.
-### Para practicas como el slakline, acrobacia aerea/trapecio, manipulacion de elementos de fuego, acroduo; tambien se pueden utilizar estas recomendaciones.
+
+> Para practicas como el slakline, acrobacia aerea/trapecio, manipulacion de elementos de fuego, acroduo; tambien se pueden utilizar estas recomendaciones.
 
 ## Participantes 
 
