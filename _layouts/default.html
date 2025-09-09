@@ -4,17 +4,10 @@
     <div class="main-container container">      
       <div class="row encabezado">        
         {% include header.html %}
-        {% include text-expand.html %}
-        {% include navbar.html %}
       </div>
-      <main class="content content-{{page.title}}">
-        <div class="row">
-          <div class="col-12">
-            {{content}}
-          </div>
-        </div>
-      </main>
-    </div>
+  <main class="main-content">
+    {{ content }}
+  </main>
 
   </body>
 </html>
