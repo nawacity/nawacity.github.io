@@ -22,4 +22,6 @@ plugins:
   - search
   - privacy
   - blog 
-  - macros
+  - macros:
+    include_yaml:
+      - mkdocs.yml
