@@ -9,11 +9,20 @@ Hola, soy Carirope o Cari. Soy una persona obsecionada con los nudos/patrones/fr
 - [Ritual.kinbaku](#TODO). 1 anio y moneda. Espacio manejado por GuGa y velvet. Su objetivo al enseniar, es que logres tener una experiencia amplia de la practica manejando nudos muy basicos y patrones no complejos. Esto no significa que sea facil, al contrario, al concentrarte en un set limitado de nudos y fricciones podes aflojar la cabeza para poder terminar consentrandote en lo que importa que es la persona. 
 
 - [Soguita](#TODO). Esporadicamente he ido a talleres, eventos, perfos, etc. Gran espacio si tu perfil de juego es switchear o si queres probar switchear. De estos escuentros pude conocer el semenawa y otra libertad en la practica, un poco de risas, otro poco de hullacion y muy buena gente que valen la pena que existan en las comunidades. 
+- [mango](#TODO). Seminario de 12hs. 
 
 - [kinkyvibe](#TODO). Esporadicamente he ido a talleres, eventos, perfos, etc. Mas alla de que el shibari es japones, tenemos que recordar que soy latino y como tal, los tratos entre personas es distinto a otros lugares y por consecuencia, las practicas tambien. Espacio de muchas comunidades y eventos que su finalidad es que aprendas un poco mas del bdsm, que puedas disfrutar y tengas una caja de herramienta ante lo mas peligroso del mundo... que te guste alguien... 
 
-- [ShibariStudy](#TODO) 1 anio autodidacta. Digamos que, estas entrando al mundo del shibari pero te consentras solo en lo local, es un camino sano para recorrer pero un dia te pica el mosquito de la curiosidad, queres ver que mas hay afuera. Bueno, en shibaristudy hay videos con profesores internacionales, referentes mundiales de como se viene moviendo la cosa en usa, europa y japon. Esto no es un Ad porque no es todo lindo al final. Te encerras un anio practicando cosas que no sabes si funcionan o no, laboratorio y gente dispuesta a poner el cuerpo para darte cuenta que estas haciendo el mismo camino de autodidacta que en TheDuchy y al final te frustras porque no sabes cual es una buena tension y siempre falta el factor vedor. Anda a clases pa'.
+- [ShibariStudy](#TODO). 1 anio autodidacta. Digamos que, estas entrando al mundo del shibari pero te consentras solo en lo local, es un camino sano para recorrer pero un dia te pica el mosquito de la curiosidad, queres ver que mas hay afuera. Bueno, en shibaristudy hay videos con profesores internacionales, referentes mundiales de como se viene moviendo la cosa en usa, europa y japon. Esto no es un Ad porque no es todo lindo al final. Te encerras un anio practicando cosas que no sabes si funcionan o no, laboratorio y gente dispuesta a poner el cuerpo para darte cuenta que estas haciendo el mismo camino de autodidacta que en TheDuchy y al final te frustras porque no sabes cual es una buena tension y siempre falta el factor vedor. Anda a clases pa'.
 
-- [Muganawadojo](#TODO) 1 anio y pirulo. En un momento te encontras con Naka y no podes sacartelo de tu cabeza, este es tu lugar. Dirigido por La Mas Negra Noche o como le decimos en el dojo, La Negra. Lugar perfecto para conocer el lado B del shibari argento, en donde los tratos son para soltar el ego y darte cuenta que ya no es una competencia de quien es el mejor, sino, solo ir a clases dejando el ego en la puerta. Actualmente sigo yendo <3
+- [Muganawadojo](#TODO). 1 anio y pirulo. En un momento te encontras con Naka y no podes sacartelo de tu cabeza, este es tu lugar. Dirigido por La Mas Negra Noche o como le decimos en el dojo, La Negra. Lugar perfecto para conocer el lado B del shibari argento, en donde los tratos son para soltar el ego y darte cuenta que ya no es una competencia de quien es el mejor, sino, solo ir a clases dejando el ego en la puerta. Actualmente sigo yendo <3
 
+## Objetivo con esta documentacion. 
 
+ipsom 
+
+## Conducta con esta wiki. 
+
+- No doxear. 
+- No traer problemas entre comunidades. 
+- etc
