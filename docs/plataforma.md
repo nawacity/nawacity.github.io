@@ -23,5 +23,5 @@ tu-repositorio/
 
 A ver, tenes tu repo principal, tenes un mkdocs.yml que es un archivo que estructura la configuracion del servicio mkdocs, de como se va a ver y comportar. Tenes el folder docs que va a ser el contenido de la pagina. Y vas a tener el deploy de github actions, que se va a ejecutar cada vez que hagas un push al repo. 
 
-{% include 'https://github.com/nawacity/nawacity.github.io/blob/main/mkdocs.yml' %}
+{% include 'mkdocs.yml' %}
 
