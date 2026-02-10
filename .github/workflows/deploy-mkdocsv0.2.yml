@@ -8,7 +8,6 @@ on:
       - 'docs/**'
       - 'mkdocs.yml'
       - '.github/workflows/deploy.yml'
-      - 'requirements.txt'
 
 permissions:
   contents: read
@@ -37,6 +36,7 @@ jobs:
         run: |
           pip install mkdocs
           pip install mkdocs-material  # Si usas el tema Material
+          pip install mkdocs-macros-plugin
           # Agrega otros plugins que necesites
           # pip install mkdocs-awesome-pages-plugin
           # pip install mkdocs-minify-plugin
