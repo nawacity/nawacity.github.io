@@ -24,5 +24,7 @@ ipsom
 ## Conducta con esta wiki. 
 
 - No doxear. 
+
 - No traer problemas entre comunidades. 
+
 - etc
