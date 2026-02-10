@@ -1,11 +1,6 @@
-# Bienvenido a la Wiki Interna
-hola
-Esta es la documentación privada del proyecto.
-
-## Contenido
-- Guía de uso
-- Referencia de API
-- Procedimientos
+# Nawacity Documentacion! 
+Espacio donde voy a ir agregando las nerdeadas que voy aprendiendo. 
+Se puede compartir y se puede donar para poder seguir escribiendo sobre las cosas que me gustan 
 
 ## TODO
 https://github.com/zhaoterryy/mkdocs-pdf-export-plugin
