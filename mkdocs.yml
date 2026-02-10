@@ -15,8 +15,8 @@ repo_name: mi-wiki
 
 nav:
   - Inicio: index.md
-  - Guía de uso: guia-uso.md
-  - API: api.md
+#  - Guía de uso: guia-uso.md
+#  - API: api.md
 
 plugins:
   - search
