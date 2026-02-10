@@ -14,6 +14,7 @@ theme:
 nav:
   - Inicio: index.md
   - Introduccion: introduccion.md
+  - Plataforma: plataforma.md
   #  - Guía de uso: guia-uso.md
 #  - API: api.md
 
