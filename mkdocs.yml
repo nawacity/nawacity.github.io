@@ -1,0 +1,22 @@
+site_name: Mi Wiki Interna
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+repo_url: https://github.com/tuusuario/mi-wiki
+repo_name: mi-wiki
+
+nav:
+  - Inicio: index.md
+  - Guía de uso: guia-uso.md
+  - API: api.md
+
+plugins:
+  - search
