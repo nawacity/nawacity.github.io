@@ -1,4 +1,5 @@
 # Presentacion 
+
 Hola, soy Carirope o Cari. Soy una persona obsecionada con los nudos/patrones/frincciones que se van presentando en mi camino. Para darles contexto, soy de Argentina/Buenos Aires, asi que vengo tomando clases, como tambien, yendo a jams y eventos sociales desde el 2022. 
 
 Un poco sobre donde aprendi: 
