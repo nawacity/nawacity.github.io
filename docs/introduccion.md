@@ -2,7 +2,7 @@
 
 Hola, soy Carirope o Cari. Soy una persona obsecionada con los nudos/patrones/frincciones que se van presentando en mi camino. Para darles contexto, soy de Argentina/Buenos Aires, asi que vengo tomando clases, como tambien, yendo a jams y eventos sociales desde el 2022. 
 
-Un poco sobre donde aprendi: 
+## Un poco sobre donde aprendi: 
 
 - [TheDuchy.com](#TODO). 2 anios?. Aca es donde arranque, en pandemia, con un par de cuerdas de yute nuevas y mucho tiempo libre. La verdad que disfrute mucho esta pagina, tiene un amplio catalogo de patrones explicados con texto, fotos y videos pero no lo recomiendo para hacer "restricciones", con esto me refiero, es peligroso no saber cuanto tensar la cuerda en el cuerpo de una persona. Mas sobre esto en el futuro... blog?
 
