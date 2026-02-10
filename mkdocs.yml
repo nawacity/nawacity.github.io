@@ -1,4 +1,4 @@
-site_name: Mi Wiki Interna
+site_name: Nawacity
 theme:
   name: material
   features:
@@ -10,12 +10,11 @@ theme:
       primary: indigo
       accent: indigo
 
-repo_url: https://github.com/nawacity/nawacity.github.io
-repo_name: mi-wiki
 
 nav:
   - Inicio: index.md
-#  - Guía de uso: guia-uso.md
+  - Introduccion: introduccion.md
+  #  - Guía de uso: guia-uso.md
 #  - API: api.md
 
 plugins:
