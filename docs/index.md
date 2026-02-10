@@ -1,5 +1,5 @@
 # Bienvenido a la Wiki Interna
-
+hola
 Esta es la documentación privada del proyecto.
 
 ## Contenido
